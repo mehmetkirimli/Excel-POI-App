@@ -1,0 +1,9 @@
+
+g
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(›ÌÆö8——¨±Ê1
+:
+java:S1118"Hide this public constructor.(°™”å8ú¦ó°Ê1
+L	java:S106"+Replace this use of System.out by a logger.(ò—ŞÊøÿÿÿÿ8âŸ×°Ê1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8öîÖÊ1
+^
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Ê±Ì†8¨—¨±Ê1
