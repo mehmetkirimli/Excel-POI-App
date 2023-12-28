@@ -80,3 +80,7 @@ G.idea/sonarlint/issuestore/d/2/d23dbde1c9d2703869baf5b3e6baad9ee0b5199c,f\c\fc
 Q.idea/sonarlint/securityhotspotstore/d/2/d23dbde1c9d2703869baf5b3e6baad9ee0b5199c,4\4\4487f1400279d11bae3b40b7cd315ddcce2836a9
 ]
 -src/main/java/org/example/thread/Counter.java,8\2\82f8d5ad9565dd98584f8673f8fa70b731ce7916
+\
+,src/main/java/org/example/thread/Strike.java,2\2\2243c298c3063a44972560f27e26b69f78f363e5
+[
++src/main/java/org/example/thread/Sleep.java,f\7\f7513db1d75935b4b963fb799ae9667cc047b466

@@ -1,2 +1,18 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(Æî£ı8âÓŠƒË1
+€
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ8êßÕ…Ë1
+L	java:S106"+Replace this use of System.out by a logger.(›û„§øÿÿÿÿ8ëßÕ…Ë1
+L	java:S106"+Replace this use of System.out by a logger.(ÎÏêÏùÿÿÿÿ8ìßÕ…Ë1
+L	java:S106"+Replace this use of System.out by a logger.(Œ°Ğåûÿÿÿÿ8ìßÕ…Ë1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8ìßÕ…Ë1
+]	java:S125 "<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8ìßÕ…Ë1
+X	java:S125'"<This block of commented-out lines of code should be removed.(àÁÚ·8ìßÕ…Ë1
+X	java:S125,"<This block of commented-out lines of code should be removed.(Æî£ı8íßÕ…Ë1
+W
+java:S1128":Remove this unused import 'org.example.excel.ExcelReader'.(®¸ü£8ÓüÖ…Ë1
+\
+java:S1128":Remove this unused import 'org.example.excel.ExcelWriter'.(ì’èñúÿÿÿÿ8ÓüÖ…Ë1
+T
+java:S1128"7Remove this unused import 'org.example.thread.Counter'.(Ğ´»¡8ÓüÖ…Ë1
+S
+java:S1128	"6Remove this unused import 'org.example.thread.Strike'.(™¦²Ï8ÓüÖ…Ë1
