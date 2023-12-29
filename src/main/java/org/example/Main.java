@@ -17,13 +17,64 @@ import org.example.thread.Strike;
 public class Main
 {
   private static final Logger logger = LogManager.getLogger(Main.class);
+  public static  List<Integer> list1 = new ArrayList<>();
+  public static  List<Integer> list2 = new ArrayList<>();
+  public static  List<Integer> list3 = new ArrayList<>();
+  public static  List<Integer> list4 = new ArrayList<>();
+
+  public static String bolme4(int adet,List<Integer> list)
+  {
+    if(adet % 4 != 0)
+    {
+      System.out.println("Bu liste için girilen adet sayısı 4'e bölünemediği için işlem devam etmez ");
+      return "Error";
+    }
+
+    int bolen = 4 ;
+    int parcaUzunlugu = list.size() / bolen ;
+
+    for (int i=0;i<bolen;i++)
+    {
+      int startIndex = i * parcaUzunlugu;
+      int endIndex = (i+1) * parcaUzunlugu;
+
+      List<Integer> parca = list.subList(startIndex,endIndex);
+      if (i==0) list1=parca;
+      else if (i==1) list2=parca;
+      else if (i==2) list3=parca;
+      else if (i==3) list4=parca;
+    }
+    System.out.println("Oluşturulan liste boyutu : " + list.size() + " olarak kaydedildi . Bu  " + adet + " adetlik liste 4 eşit parçaya ayrıldı");
+    return "Okey";
+  }
   public static void main(String[] args)
   {
     try
     {
-      Homework h1 = new Homework("hw1",40);
+      List<Integer> bigList = new ArrayList<>();
+      for(int i=1;i<=10000;i++)
+      {
+        bigList.add(i);
+      }
+
+      bolme4(10000,bigList);
+
+      Homework h1 = new Homework(list1);
       Thread t1 = new Thread(h1);
       t1.start();
+
+      Thread t2 = new Thread(h1);
+      t2.start();
+
+      Thread t3 = new Thread(h1);
+      t3.start();
+
+      Thread t4 = new Thread(h1);
+      t4.start();
+
+
+
+
 
       //------------------------------------------------------------------
 

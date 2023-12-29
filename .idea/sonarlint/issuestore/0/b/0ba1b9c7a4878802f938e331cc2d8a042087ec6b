@@ -1,30 +1,52 @@
 
-X	java:S125"<This block of commented-out lines of code should be removed.(ñÂ‡Á8ş­Ü¬Ë1
-]	java:S125!"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8ş­Ü¬Ë1
-X	java:S125)"<This block of commented-out lines of code should be removed.(ñÂ‡Á8ş­Ü¬Ë1
-]	java:S1254"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8ş­Ü¬Ë1
-]	java:S125?"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8ş­Ü¬Ë1
-]	java:S125C"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8ş­Ü¬Ë1
-X	java:S125L"<This block of commented-out lines of code should be removed.(àÁÚ·8ş­Ü¬Ë1
-X	java:S125S"<This block of commented-out lines of code should be removed.(Æî£ı8ş­Ü¬Ë1
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8…Æİ¬Ë1
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8…Æİ¬Ë1
+n
+java:S1104"QMake list1 a static final constant or non-public and provide accessors if needed.(™µ¤å8Á‘±Ë1
+n
+java:S1104"QMake list2 a static final constant or non-public and provide accessors if needed.(º›Ó¾8Á‘±Ë1
+n
+java:S1104"QMake list3 a static final constant or non-public and provide accessors if needed.(¨Ë ×8Á‘±Ë1
+n
+java:S1104"QMake list4 a static final constant or non-public and provide accessors if needed.(€û¤ú8Á‘±Ë1
+H
+java:S1444"+Make this "public static list1" field final(™µ¤å8Á‘±Ë1
+H
+java:S1444"+Make this "public static list2" field final(º›Ó¾8Á‘±Ë1
+H
+java:S1444"+Make this "public static list3" field final(¨Ë ×8Á‘±Ë1
+H
+java:S1444"+Make this "public static list4" field final(€û¤ú8Á‘±Ë1
+:
+java:S2386"Make this member "protected".(™µ¤å8Ï‘±Ë1
+:
+java:S2386"Make this member "protected".(º›Ó¾8Ï‘±Ë1
+:
+java:S2386"Make this member "protected".(¨Ë ×8Ï‘±Ë1
+:
+java:S2386"Make this member "protected".(€û¤ú8Ï‘±Ë1
+G	java:S106"+Replace this use of System.out by a logger.(Ò¢™Ô8Ò‘±Ë1
+G	java:S106/"+Replace this use of System.out by a logger.(˜8Ó‘±Ë1
+X	java:S125Q"<This block of commented-out lines of code should be removed.(ñÂ‡Á8Õ‘±Ë1
+]	java:S125T"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8Õ‘±Ë1
+X	java:S125\"<This block of commented-out lines of code should be removed.(ñÂ‡Á8Õ‘±Ë1
+]	java:S125g"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8Õ‘±Ë1
+]	java:S125r"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8Õ‘±Ë1
+]	java:S125v"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8Õ‘±Ë1
+X	java:S125"<This block of commented-out lines of code should be removed.(àÁÚ·8Õ‘±Ë1
+Y	java:S125†"<This block of commented-out lines of code should be removed.(Æî£ı8Õ‘±Ë1
 c
-java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8…Æİ¬Ë1
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8ôä±Ë1
 ]
-java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8†Æİ¬Ë1
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8õä±Ë1
 W
-java:S1128	":Remove this unused import 'org.example.excel.ExcelReader'.(®¸ü£8†Æİ¬Ë1
+java:S1128	":Remove this unused import 'org.example.excel.ExcelReader'.(®¸ü£8õä±Ë1
 \
 java:S1128
-":Remove this unused import 'org.example.excel.ExcelWriter'.(ì’èñúÿÿÿÿ8†Æİ¬Ë1
+":Remove this unused import 'org.example.excel.ExcelWriter'.(ì’èñúÿÿÿÿ8õä±Ë1
 T
-java:S1128"7Remove this unused import 'org.example.thread.Counter'.(Ğ´»¡8†Æİ¬Ë1
+java:S1128"7Remove this unused import 'org.example.thread.Counter'.(Ğ´»¡8õä±Ë1
 W
-java:S1128":Remove this unused import 'org.example.thread.OrderMatic'.(è¹Âã8†Æİ¬Ë1
+java:S1128":Remove this unused import 'org.example.thread.OrderMatic'.(è¹Âã8õä±Ë1
 W
-java:S1128"5Remove this unused import 'org.example.thread.Sleep'.(Ö“î’ûÿÿÿÿ8†Æİ¬Ë1
+java:S1128"5Remove this unused import 'org.example.thread.Sleep'.(Ö“î’ûÿÿÿÿ8õä±Ë1
 S
-java:S1128"6Remove this unused import 'org.example.thread.Strike'.(™¦²Ï8†Æİ¬Ë1
+java:S1128"6Remove this unused import 'org.example.thread.Strike'.(™¦²Ï8õä±Ë1
