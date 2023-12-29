@@ -107,8 +107,6 @@ public class Homework implements Runnable
   public synchronized void tekCift(int adet)
   {
     int bolen = 4 ;
-
-    for ()
   }
 
 
