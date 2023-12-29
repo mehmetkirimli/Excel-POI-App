@@ -2,11 +2,14 @@ package org.example;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.example.excel.ExcelReader;
 import org.example.excel.ExcelWriter;
 import org.example.thread.Counter;
+import org.example.thread.Homework;
 import org.example.thread.OrderMatic;
 import org.example.thread.Sleep;
 import org.example.thread.Strike;
@@ -18,15 +21,33 @@ public class Main
   {
     try
     {
-      OrderMatic orderMatic = new OrderMatic();
-      List<Thread> threadList = new ArrayList<>();
-      for(int i=0;i<100;i++)
-      {
-        Thread t = new Thread(orderMatic);
-        threadList.add(t);
-        t.start();
-      }
+      Homework h1 = new Homework("hw1",40);
+      Thread t1 = new Thread(h1);
+      t1.start();
 
+      //------------------------------------------------------------------
+
+      //OrderMatic orderMatic = new OrderMatic();
+      //ExecutorService pool = Executors.newFixedThreadPool(10);
+
+      //for(int i=0;i<100;i++)
+      //{
+      //  pool.execute(orderMatic);
+      //}
+      //System.out.println(orderMatic.getOrderNo());
+
+      //------------------------------------------------------------------
+
+      //OrderMatic orderMatic = new OrderMatic();
+      //List<Thread> threadList = new ArrayList<>();
+      //for(int i=0;i<100;i++)
+      //{
+      //  Thread t = new Thread(orderMatic);
+      //  threadList.add(t);
+      //  t.start();
+      //}
+
+      //------------------------------------------------------------------
 
       //Sleep s1 = new Sleep("s1",1);
       //Thread t1 = new Thread(s1);
@@ -37,6 +58,7 @@ public class Main
       //s1.stop();
       //System.out.println("isRun " + s1.isRun() + " oldu ." );
 
+      //------------------------------------------------------------------
 
       //Strike s1 = new Strike("s1");
       //Strike s2 = new Strike("s2");
@@ -49,10 +71,14 @@ public class Main
       //t2.start();
       //t3.start();
 
+      //------------------------------------------------------------------
+
       //Counter c1 = new Counter("Thread 1");
       //Counter c2 = new Counter("Thread 2");
       //c1.start();
       //c2.start();
+
+      //------------------------------------------------------------------
 
       //new ExcelReader("C://data//excel.xlsx");
       //new ExcelWriter();

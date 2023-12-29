@@ -2,7 +2,8 @@ package org.example.thread;
 
 public class OrderMatic implements Runnable
 {
-  private  int orderNo;
+  private volatile int orderNo;
+  //volatile cathc yerine geçip aynı threadden bir sonraki threadin de devam etmesini garantileyen bir anahtar kelime.
   private final Object LOCK = new Object();
 
   public OrderMatic()
@@ -31,13 +32,11 @@ public class OrderMatic implements Runnable
 
     //synchronized (LOCK)
     //{
-    //  this.orderNo++;
+    // this.orderNo++;
     //  System.out.println( Thread.currentThread().getName()+" -Order No :  " + this.getOrderNo());
     //}
 
     increaseOrder();
-
-
   }
 
   public synchronized void increaseOrder()

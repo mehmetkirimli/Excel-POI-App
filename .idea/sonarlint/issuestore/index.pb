@@ -86,3 +86,7 @@ Q.idea/sonarlint/securityhotspotstore/d/2/d23dbde1c9d2703869baf5b3e6baad9ee0b519
 +src/main/java/org/example/thread/Sleep.java,f\7\f7513db1d75935b4b963fb799ae9667cc047b466
 `
 0src/main/java/org/example/thread/OrderMatic.java,8\0\80928c2d1886c67c6e2d13770b4605c9845c0073
+^
+.src/main/java/org/example/thread/homework.java,5\4\54a8692301aba0427ecacaf26c98f045f0a4d7b3
+^
+.src/main/java/org/example/thread/Homework.java,6\5\655886b1b9c2ef40c2a6c14e3ceabb705f2d1626
