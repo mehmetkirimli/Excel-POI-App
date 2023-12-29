@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8…φέ¥Λ1
+j	java:S116"ORename this field "LOCK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±©p8‹φέ¥Λ1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ΟΆ²όÿÿÿÿ8φέ¥Λ1
+X	java:S125!"<This block of commented-out lines of code should be removed.(Ϊ°ΰ¬8ρς¥Λ1
+L	java:S106."+Replace this use of System.out by a logger.(φ³ζ…ωÿÿÿÿ8½Ίπ¥Λ1
+D
+java:S1068"(Remove this unused "LOCK" private field.(±©p8ςς¥Λ1
