@@ -90,3 +90,5 @@ Q.idea/sonarlint/securityhotspotstore/d/2/d23dbde1c9d2703869baf5b3e6baad9ee0b519
 .src/main/java/org/example/thread/homework.java,5\4\54a8692301aba0427ecacaf26c98f045f0a4d7b3
 ^
 .src/main/java/org/example/thread/Homework.java,6\5\655886b1b9c2ef40c2a6c14e3ceabb705f2d1626
+`
+0src/main/java/org/example/thread/IMatematik.java,3\5\3585eda3230fb5aa720ca782e465b6658e4c9d8c
