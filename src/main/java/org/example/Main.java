@@ -10,6 +10,7 @@ import org.example.excel.ExcelReader;
 import org.example.excel.ExcelWriter;
 import org.example.thread.Counter;
 import org.example.thread.Homework;
+import org.example.thread.IMatematik;
 import org.example.thread.OrderMatic;
 import org.example.thread.Sleep;
 import org.example.thread.Strike;
@@ -49,6 +50,29 @@ public class Main
   }
   public static void main(String[] args)
   {
+    IMatematik toplama = new IMatematik() {
+      @Override
+      public int transaction(int a, int b) {
+        return a+b;
+      }
+    };
+
+    IMatematik carpm   = new IMatematik() {
+      @Override
+      public int transaction(int a, int b) {
+        return a*b;
+      }
+    };
+
+    System.out.println(toplama.transaction(4,11));
+
+    IMatematik t1 = (a,b) -> a+b;
+    IMatematik c1 = (a,b) -> a*b;
+
+    System.out.println(c1.transaction(20,8));
+
+    //------------------------------------------------------------------
+    /*
     try
     {
       List<Integer> bigList = new ArrayList<>();
@@ -72,10 +96,7 @@ public class Main
       Thread t4 = new Thread(h1);
       t4.start();
 
-
-
-
-
+     */
       //------------------------------------------------------------------
 
       //OrderMatic orderMatic = new OrderMatic();
@@ -133,10 +154,10 @@ public class Main
 
       //new ExcelReader("C://data//excel.xlsx");
       //new ExcelWriter();
-    }
-    catch (Exception e)
-    {
-      logger.warn(e);
-    }
+    //}
+    //catch (Exception e)
+    //{
+    //  logger.warn(e);
+    //}
   }
 }

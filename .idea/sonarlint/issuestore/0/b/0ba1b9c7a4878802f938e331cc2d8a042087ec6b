@@ -1,52 +1,71 @@
 
+J
+java:S16045"(Make this anonymous inner class a lambda(Ù“¯úøÿÿÿÿ8ÌŠ´øÌ1
+E
+java:S1604<"(Make this anonymous inner class a lambda(âàö¼8ÌŠ´øÌ1
 n
-java:S1104"QMake list1 a static final constant or non-public and provide accessors if needed.(™µ¤å8Á‘±Ë1
+java:S1104"QMake list1 a static final constant or non-public and provide accessors if needed.(™µ¤å8ÍŠ´øÌ1
 n
-java:S1104"QMake list2 a static final constant or non-public and provide accessors if needed.(º›Ó¾8Á‘±Ë1
+java:S1104"QMake list2 a static final constant or non-public and provide accessors if needed.(º›Ó¾8ÍŠ´øÌ1
 n
-java:S1104"QMake list3 a static final constant or non-public and provide accessors if needed.(¨Ë ×8Á‘±Ë1
+java:S1104"QMake list3 a static final constant or non-public and provide accessors if needed.(¨Ë ×8ÍŠ´øÌ1
 n
-java:S1104"QMake list4 a static final constant or non-public and provide accessors if needed.(€û¤ú8Á‘±Ë1
+java:S1104"QMake list4 a static final constant or non-public and provide accessors if needed.(€û¤ú8ÍŠ´øÌ1
 H
-java:S1444"+Make this "public static list1" field final(™µ¤å8Á‘±Ë1
+java:S1444"+Make this "public static list1" field final(™µ¤å8ÍŠ´øÌ1
 H
-java:S1444"+Make this "public static list2" field final(º›Ó¾8Á‘±Ë1
+java:S1444"+Make this "public static list2" field final(º›Ó¾8ÍŠ´øÌ1
 H
-java:S1444"+Make this "public static list3" field final(¨Ë ×8Á‘±Ë1
+java:S1444"+Make this "public static list3" field final(¨Ë ×8ÍŠ´øÌ1
 H
-java:S1444"+Make this "public static list4" field final(€û¤ú8Á‘±Ë1
+java:S1444"+Make this "public static list4" field final(€û¤ú8ÍŠ´øÌ1
 :
-java:S2386"Make this member "protected".(™µ¤å8Ï‘±Ë1
+java:S2386"Make this member "protected".(™µ¤å8…‹´øÌ1
 :
-java:S2386"Make this member "protected".(º›Ó¾8Ï‘±Ë1
+java:S2386"Make this member "protected".(º›Ó¾8…‹´øÌ1
 :
-java:S2386"Make this member "protected".(¨Ë ×8Ï‘±Ë1
+java:S2386"Make this member "protected".(¨Ë ×8…‹´øÌ1
 :
-java:S2386"Make this member "protected".(€û¤ú8Ï‘±Ë1
-G	java:S106"+Replace this use of System.out by a logger.(Ò¢™Ô8Ò‘±Ë1
-G	java:S106/"+Replace this use of System.out by a logger.(˜8Ó‘±Ë1
-X	java:S125Q"<This block of commented-out lines of code should be removed.(ñÂ‡Á8Õ‘±Ë1
-]	java:S125T"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8Õ‘±Ë1
-X	java:S125\"<This block of commented-out lines of code should be removed.(ñÂ‡Á8Õ‘±Ë1
-]	java:S125g"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8Õ‘±Ë1
-]	java:S125r"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8Õ‘±Ë1
-]	java:S125v"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8Õ‘±Ë1
-X	java:S125"<This block of commented-out lines of code should be removed.(àÁÚ·8Õ‘±Ë1
-Y	java:S125†"<This block of commented-out lines of code should be removed.(Æî£ı8Õ‘±Ë1
+java:S2386"Make this member "protected".(€û¤ú8†‹´øÌ1
+G	java:S106"+Replace this use of System.out by a logger.(Ò¢™Ô8‹´øÌ1
+G	java:S1060"+Replace this use of System.out by a logger.(˜8‹´øÌ1
+S
+java:S1854E"6Remove this useless assignment to local variable "t1".(ıµô±8‹´øÌ1
+V
+java:S1854<"9Remove this useless assignment to local variable "carpm".(âàö¼8‹´øÌ1
+G
+java:S1481<"*Remove this unused "carpm" local variable.(âàö¼8“‹´øÌ1
+F	java:S106C"+Replace this use of System.out by a logger.(¿ÖØ(8”‹´øÌ1
+D
+java:S1481E"'Remove this unused "t1" local variable.(ıµô±8™‹´øÌ1
+L	java:S106H"+Replace this use of System.out by a logger.(Ï…‹Ëşÿÿÿÿ8¾Ï¶øÌ1
+]	java:S125M"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8š‹´øÌ1
+X	java:S125f"<This block of commented-out lines of code should be removed.(ñÂ‡Á8š‹´øÌ1
+]	java:S125i"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8š‹´øÌ1
+X	java:S125q"<This block of commented-out lines of code should be removed.(ñÂ‡Á8š‹´øÌ1
+]	java:S125|"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8š‹´øÌ1
+^	java:S125‡"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8š‹´øÌ1
+^	java:S125‹"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8š‹´øÌ1
+Y	java:S125”"<This block of commented-out lines of code should be removed.(àÁÚ·8š‹´øÌ1
+Y	java:S125›"<This block of commented-out lines of code should be removed.(Æî£ı8š‹´øÌ1
 c
-java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8ôä±Ë1
+java:S1128"ARemove this unused import 'java.util.concurrent.ExecutorService'.(æ÷–£ùÿÿÿÿ8¬¨¹øÌ1
 ]
-java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8õä±Ë1
+java:S1128";Remove this unused import 'java.util.concurrent.Executors'.(äåÒÛÿÿÿÿÿ8¬¨¹øÌ1
 W
-java:S1128	":Remove this unused import 'org.example.excel.ExcelReader'.(®¸ü£8õä±Ë1
+java:S1128	":Remove this unused import 'org.example.excel.ExcelReader'.(®¸ü£8¬¨¹øÌ1
 \
 java:S1128
-":Remove this unused import 'org.example.excel.ExcelWriter'.(ì’èñúÿÿÿÿ8õä±Ë1
+":Remove this unused import 'org.example.excel.ExcelWriter'.(ì’èñúÿÿÿÿ8¬¨¹øÌ1
 T
-java:S1128"7Remove this unused import 'org.example.thread.Counter'.(Ğ´»¡8õä±Ë1
+java:S1128"7Remove this unused import 'org.example.thread.Counter'.(Ğ´»¡8¬¨¹øÌ1
+U
+java:S1128"8Remove this unused import 'org.example.thread.Homework'.(íÄäÚ8¬¨¹øÌ1
 W
-java:S1128":Remove this unused import 'org.example.thread.OrderMatic'.(è¹Âã8õä±Ë1
+java:S1128":Remove this unused import 'org.example.thread.OrderMatic'.(è¹Âã8¬¨¹øÌ1
 W
-java:S1128"5Remove this unused import 'org.example.thread.Sleep'.(Ö“î’ûÿÿÿÿ8õä±Ë1
+java:S1128"5Remove this unused import 'org.example.thread.Sleep'.(Ö“î’ûÿÿÿÿ8­¨¹øÌ1
 S
-java:S1128"6Remove this unused import 'org.example.thread.Strike'.(™¦²Ï8õä±Ë1
+java:S1128"6Remove this unused import 'org.example.thread.Strike'.(™¦²Ï8­¨¹øÌ1
+F
+java:S1068"*Remove this unused "logger" private field.(åñˆs8œ‹´øÌ1
