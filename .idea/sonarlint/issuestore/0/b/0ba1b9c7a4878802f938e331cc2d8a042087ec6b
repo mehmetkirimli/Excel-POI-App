@@ -1,43 +1,26 @@
 
-n
-java:S1192"LDefine a constant instead of duplicating this literal "J.K.Rowling" 8 times.(¶äë–úÿÿÿÿ8—ğüÌ1
-N
-java:S1874",Remove this use of "Date"; it is deprecated.(¶äë–úÿÿÿÿ8§ğüÌ1
-N
-java:S1874",Remove this use of "Date"; it is deprecated.(ôœÃ‡ÿÿÿÿÿ8©ğüÌ1
-N
-java:S1874",Remove this use of "Date"; it is deprecated.(Íç’Ôùÿÿÿÿ8ªğüÌ1
-I
-java:S1874",Remove this use of "Date"; it is deprecated.(×ØÚş8«ğüÌ1
-I
-java:S1874",Remove this use of "Date"; it is deprecated.(Ìô†˜8­ğüÌ1
-N
-java:S1874",Remove this use of "Date"; it is deprecated.(é•­çşÿÿÿÿ8¯ğüÌ1
-I
-java:S1874",Remove this use of "Date"; it is deprecated.(‚ö…û8¯ğüÌ1
-I
-java:S1874",Remove this use of "Date"; it is deprecated.(€ˆØ—8¯ğüÌ1
-I
-java:S1874",Remove this use of "Date"; it is deprecated.(ä¦Òó8°ğüÌ1
-N
-java:S1874",Remove this use of "Date"; it is deprecated.(¡ˆ­¦üÿÿÿÿ8°ğüÌ1
-L	java:S106+"+Replace this use of System.out by a logger.(½ˆ´ûÿÿÿÿ8±ğüÌ1
-G	java:S1061"+Replace this use of System.out by a logger.(È“†ü8³ğüÌ1
-L	java:S1063"+Replace this use of System.out by a logger.(çÜËÌøÿÿÿÿ8³ğüÌ1
-]	java:S1255"<This block of commented-out lines of code should be removed.(×áŞ†ùÿÿÿÿ8´ğüÌ1
-]	java:S1257"<This block of commented-out lines of code should be removed.(Óı„ûÿÿÿÿ8´ğüÌ1
-]	java:S125:"<This block of commented-out lines of code should be removed.(Ş×†èúÿÿÿÿ8´ğüÌ1
-X	java:S125^"<This block of commented-out lines of code should be removed.(ÙĞ‘¿8´ğüÌ1
-X	java:S125d"<This block of commented-out lines of code should be removed.(ñÂ‡Á8´ğüÌ1
-]	java:S125g"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8´ğüÌ1
-X	java:S125o"<This block of commented-out lines of code should be removed.(ñÂ‡Á8´ğüÌ1
-]	java:S125z"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8´ğüÌ1
-^	java:S125…"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8´ğüÌ1
-^	java:S125‰"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8´ğüÌ1
-Y	java:S125’"<This block of commented-out lines of code should be removed.(àÁÚ·8´ğüÌ1
-Y	java:S125™"<This block of commented-out lines of code should be removed.(Æî£ı8´ğüÌ1
-U
-java:S1128	"8Remove this unused import 'org.example.enumaration.Gun'.(¤û8µğüÌ1
-X
-java:S1128
-";Remove this unused import 'org.example.enumaration.Gunler'.(çÓ¦Û8µğüÌ1
+S
+java:S1854K"6Remove this useless assignment to local variable "t1".(ıµô±8©¨„ıÌ1
+V
+java:S1854B"9Remove this useless assignment to local variable "carpm".(âàö¼8©¨„ıÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(–ûÿ™şÿÿÿÿ8Ç…ıÌ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8ª¨„ıÌ1
+G
+java:S1481B"*Remove this unused "carpm" local variable.(âàö¼8«¨„ıÌ1
+F	java:S106I"+Replace this use of System.out by a logger.(¿ÖØ(8«¨„ıÌ1
+D
+java:S1481K"'Remove this unused "t1" local variable.(ıµô±8¬¨„ıÌ1
+L	java:S106N"+Replace this use of System.out by a logger.(Ï…‹Ëşÿÿÿÿ8¬¨„ıÌ1
+]	java:S125S"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8­¨„ıÌ1
+Y	java:S125"<This block of commented-out lines of code should be removed.(ÙĞ‘¿8­¨„ıÌ1
+X	java:S125£"<This block of commented-out lines of code should be removed.(äÇ¿8­¨„ıÌ1
+Y	java:S125½"<This block of commented-out lines of code should be removed.(ñÂ‡Á8­¨„ıÌ1
+^	java:S125À"<This block of commented-out lines of code should be removed.(äÄ†øÿÿÿÿ8­¨„ıÌ1
+Y	java:S125È"<This block of commented-out lines of code should be removed.(ñÂ‡Á8­¨„ıÌ1
+^	java:S125Ó"<This block of commented-out lines of code should be removed.(²Îö¬úÿÿÿÿ8­¨„ıÌ1
+^	java:S125Ş"<This block of commented-out lines of code should be removed.(ÙùÙ©ùÿÿÿÿ8­¨„ıÌ1
+^	java:S125â"<This block of commented-out lines of code should be removed.(ÊÌÕòúÿÿÿÿ8­¨„ıÌ1
+Y	java:S125ë"<This block of commented-out lines of code should be removed.(àÁÚ·8­¨„ıÌ1
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(Æî£ı8­¨„ıÌ1
+F
+java:S1068"*Remove this unused "logger" private field.(åñˆs8®¨„ıÌ1
